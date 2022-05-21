@@ -1,0 +1,12 @@
+.idea
+**/.env
+**/node_modules
+
+# Yarn Related
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
